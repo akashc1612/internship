@@ -2,32 +2,39 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Company's name</title>
+    <title>Pillar 9 Tae</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="bootstrap.css">
-    <style>
-        .carousel-inner > .item > img,
-        .carousel-inner > .item > img{
-            width : 72%;
-            margin : fill;
-        }
-    </style>
+    <link rel="stylesheet" href="custom.min.css">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23019901-1"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.12.0/headroom.min.js" integrity="sha512-9UsrKTYzS9smDm2E58MLs0ACtOki+UC4bBq4iK5wi7lJycwqcaiHxr1bdEsIVoK0l5STEzLUdYyDdFQ5OEjczw==" crossorigin="anonymous"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-23019901-1');
+    </script>
 </head>
 <body>
-<div class="navbar navbar-fixed-top" style="position:fixed">
+
+<div class="navbar navbar-expand-lg fixed-top navbar-dark bg-danger headroom">
     <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
-            <a class="navbar-collapse collapse"><img src="logo.jpg" style="padding-top:3px;"> </a>
-        </div>
-        <div class="navbar-collapse collapse">
-            <ul class="nav navbar-nav pull-right">
-                <li class="active txt-size"><a href="index.html">HOME</a></li>
-                <li class="text-size"><a href="login.html">LOGIN/SIGNUP</a></li>
-                <li class="text-size"><a href="contact.html">CONTACT US</a></li>
+        <a href="../" class="navbar-brand">Pillar 9 Tae</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav my-2 my-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Help</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Contact us</a>
+                </li>
             </ul>
         </div>
     </div>
-
 </div>
 </body>
 </html>
