@@ -1,6 +1,6 @@
 font-family: 'Open Sans', sans-serif;
 /* sans serift fontfamily  */
-h1, p {
+h1,h2,h3,h4,h5,p {
   font-family: sans-serif;
 }
 
@@ -16,6 +16,28 @@ iframe {
   overflow: hidden;
   border: none
 }
+
+* {
+  box-sizing: border-box;
+}
+.image {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+@media screen and (max-width: 500px) {
+  .image {
+    width: 100%;
+  }
+}
+
 
 @media (min-width: 768px) {
   body>.navbar-transparent {
