@@ -13,9 +13,9 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23019901-1"></script>
+    <script src="https://unpkg.com/headroom.js"></script>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,600&display=swap" rel="stylesheet">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.12.0/headroom.min.js" integrity="sha512-9UsrKTYzS9smDm2E58MLs0ACtOki+UC4bBq4iK5wi7lJycwqcaiHxr1bdEsIVoK0l5STEzLUdYyDdFQ5OEjczw==" crossorigin="anonymous"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
@@ -25,9 +25,9 @@
     </script>
 </head>
 <body>
+<header>
+    <div class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top headroom" style="position: fixed">
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
-    <div class="container">
         <div class="navbar-brand">
             <a  href="index.html">
                 <img src="Picture1.png" alt="" height="70px" width="60px">
@@ -59,8 +59,8 @@
                 </li>
             </ul>
         </div>
-    </div>
-</nav>
+
+    </div></header>
 <main class="m-0 p-0">
     <div class="container-fluid m-0 p-0">
     <div class="page-header">
@@ -84,6 +84,11 @@
         <p class="copyright text-light">© 2021 Pillar9 TAE </p>
     </div>
 </footer>
+<script>
+    let header = document.querySelector('header');
+    let headroom = new Headroom(header);
+    headroom.init();
+</script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 </body>
 </html>
