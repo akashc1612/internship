@@ -23,6 +23,25 @@
 
         gtag('config', 'UA-23019901-1');
     </script>
+
+    <script>
+        var example = ['About Us','About Pillar9 Tae India'];
+
+        textSequence(0);
+        function textSequence(i) {
+
+            if (example.length > i) {
+                setTimeout(function() {
+                    document.getElementById("sequence").innerHTML = example[i];
+                    textSequence(++i);
+                }, 2000); // 1 second (in milliseconds)
+
+            } else if (example.length == i) { // Loop
+                textSequence(0);
+            }
+
+        }
+    </script>
 </head>
 <body>
 <header>
@@ -90,7 +109,8 @@
     <div class="row">
         <div class="col-lg-12">
             <div class="page-header pull-right text-center">
-                <h1 id="about us"><b>About Us</b></h1>
+                <h1 id="about us"><div id="sequence"></div>
+                </h1>
                 
                 <!--description -->
                 <p>Pillar9 TAE India established in 2012 specializes in Design, Supply, commissioning and Validation of Isolation Rooms Such as Negative pressure rooms, Positive pressure rooms, Modular operation theatres etc.</p>
