@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06944049-49d2-4162-9b52-fe5339fbc76e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/internship.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot (284).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot (285).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ac2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ac3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ac5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ac6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/g.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/i.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/j.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/k.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/l.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/n.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/o.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.png" beforeDir="false" />
-    </list>
+    <list default="true" id="06944049-49d2-4162-9b52-fe5339fbc76e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +30,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614854000195</updated>
-      <workItem from="1614854004845" duration="55000" />
+      <workItem from="1614854004845" duration="695000" />
     </task>
     <servers />
   </component>
