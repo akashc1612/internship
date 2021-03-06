@@ -4,7 +4,9 @@
     <list default="true" id="105971f7-8f58-4ff3-9933-b506a0b37ecb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +42,9 @@
       <workItem from="1615019226262" duration="642000" />
       <workItem from="1615035751234" duration="64000" />
       <workItem from="1615035827335" duration="23000" />
-      <workItem from="1615035852321" duration="5247000" />
+      <workItem from="1615035852321" duration="5749000" />
+      <workItem from="1615043931231" duration="65000" />
+      <workItem from="1615044624278" duration="1286000" />
     </task>
     <servers />
   </component>
