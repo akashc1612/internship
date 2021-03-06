@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="105971f7-8f58-4ff3-9933-b506a0b37ecb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/custom.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/custom.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +34,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615017217046</updated>
       <workItem from="1615017227974" duration="186000" />
-      <workItem from="1615019226262" duration="18000" />
+      <workItem from="1615019226262" duration="319000" />
     </task>
     <servers />
   </component>
