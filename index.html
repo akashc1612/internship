@@ -30,7 +30,7 @@
     </style>
 
     <script>
-        var example = ['About Us','About Pillar9 Tae India'];
+        var example = ['About Pillar9 Tae India','Overview and Description'];
 
         textSequence(0);
         function textSequence(i) {
@@ -39,7 +39,7 @@
                 setTimeout(function() {
                     document.getElementById("sequence").innerHTML = example[i];
                     textSequence(++i);
-                }, 2000); // 1 second (in milliseconds)
+                }, 2000); // 2 second (in milliseconds)
 
             } else if (example.length == i) { // Loop
                 textSequence(0);
