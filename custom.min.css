@@ -447,3 +447,37 @@ header {
     display: none;
   }
 }
+
+/* About */
+.carousel-inner{
+
+  text-align: center;
+  }
+  .top-content .carousel-control-prev {
+      left: -110px;
+      border-bottom: 0;
+      font-size: 40px;
+      color: black;
+  }
+
+  .top-content .carousel-control-next {
+      right: -110px;
+      border-bottom: 0;
+      font-size: 40px;
+      color: black;
+  }
+#Certifications{
+
+
+    padding: 0;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 20px;
+    text-align:center;
+}
+#Certifications img{
+    height: 120px;
+    width: 120px;
+    vertical-align: middle;
+
+}
