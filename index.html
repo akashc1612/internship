@@ -29,27 +29,10 @@
         }
     </style>
 
-    <script>
-        var example = ['About Pillar9 Tae India','Certifications'];
 
-        textSequence(0);
-        function textSequence(i) {
-
-            if (example.length > i) {
-                setTimeout(function() {
-                    document.getElementById("sequence").innerHTML = example[i];
-                    textSequence(++i);
-                }, 2000); // 2 second (in milliseconds)
-
-            } else if (example.length == i) { // Loop
-                textSequence(0);
-            }
-
-        }
-    </script>
 </head>
 <body>
-<header>
+
     <div class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top headroom" style="position: fixed">
 
         <div class="navbar-brand">
@@ -58,7 +41,7 @@
             </a>
 
         </div>
-        <a class="active" href="index.html" id="GFG"><h1 class="text-light">PILLAR9 TAE INDIA</h1></a>
+        <a class="active" href="index.html" id="GFG"><h1 class="text-light">PILLAR9 TAE INDIA <br><center><small><h6>established 2012</h6></small></center></h1></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -82,8 +65,19 @@
             </ul>
         </div>
 
-    </div></header>
-<header class="bg-light">
+    </div><br><br><br><br><br>
+
+
+<div class="container">
+    <center><img src="img/z1.png"></center>
+</div>
+    <div class="tech-slideshow">
+        <div class="mover-1"></div>
+        <div class="mover-2"></div>
+    </div>
+    <br>
+    <br>
+
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -124,11 +118,12 @@
         <span class="sr-only">Next</span>
     </a>
 </div>
-<div class="bs-docs-section">
+    <br>
+<div class="container">
     <div class="row">
         <div class="col-lg-12">
             <div class="page-header pull-right text-center">
-                <h1 id="about us"><div id="sequence"></div>
+                <h1 id="about us"><div id="sequence">About Pillar9 Tae</div>
 
                 </h1>
                 <hr>
@@ -140,12 +135,9 @@
             </div>
         </div>
     </div>
-    <div class="tech-slideshow">
-        <div class="mover-1"></div>
-        <div class="mover-2"></div>
-    </div>
+
 </div>
-</header>
+<br>
       <!-- images -->
 
   
