@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="105971f7-8f58-4ff3-9933-b506a0b37ecb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hover.css" beforeDir="false" afterPath="$PROJECT_DIR$/hover.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -53,7 +52,8 @@
       <workItem from="1615044624278" duration="1286000" />
       <workItem from="1615047643758" duration="1095000" />
       <workItem from="1615049567426" duration="1055000" />
-      <workItem from="1615051077383" duration="376000" />
+      <workItem from="1615051077383" duration="678000" />
+      <workItem from="1615086529197" duration="335000" />
     </task>
     <servers />
   </component>
